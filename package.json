@@ -1,0 +1,32 @@
+{
+    "author": "robisodd",
+    "dependencies": {
+        "message-queue-pebble": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "oscillator-v0.3",
+    "pebble": {
+        "displayName": "Oscillator v0.3",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "MESSAGE",
+            "COMMAND"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "5ee63b80-f8f6-4865-b88b-f5a5d676eb56",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.3.0"
+}
